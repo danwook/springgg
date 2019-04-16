@@ -7,7 +7,7 @@
 <%@include file="../include/header.jsp"%>
 
 <!-- Main content -->
-<section class="content">
+<section class="content">S
 	<div class="row">
 		<!-- left column -->
 		<div class="col-md-12">
